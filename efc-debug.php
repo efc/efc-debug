@@ -1,19 +1,44 @@
 <?php
 /*
-Plugin Name: Eric's Debug Menu
-Plugin URI: http://tenseg.net
-Description: Puts a simple debug umbrella in the Admin bar of admin users.
-Version: 1.2
-Author: Eric Celeste
-Author URI: http://eric.clst.org/
-License: GNU Lesser GPL 2.1 (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt)
+Plugin Name: 		Eric's Debug Menu
+Plugin URI: 		https://github.com/efc/efc-debug
+GitHub Plugin URI: 	https://github.com/efc/efc-debug
+Description: 		Puts a simple debug umbrella in the Admin bar of admin users.
+Version: 			1.21
+Author: 			Eric Celeste
+Author URI: 		http://eric.clst.org/
+License: 			The MIT License 
+License URI:		http://opensource.org/licenses/MIT
+*/
+
+/*
+Copyright (c) 2015, Eric Celeste
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 */
 
 /*
 	History:
-	v.1.0: 130922 (efc) beginning
-	v.1.1: 131113 (efc) use the umbrella
-	v.1.2: 131116 (efc) now included on admin pages as well
+	v.1.0:  130922 (efc) beginning
+	v.1.1:  131113 (efc) use the umbrella
+	v.1.2:  131116 (efc) now included on admin pages as well
+	v.1.21: 150410 (efc) MIT License
 	// v.1.3: 140526 (efc) added jquery enqueue just in case
 */
  

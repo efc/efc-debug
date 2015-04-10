@@ -4,6 +4,7 @@ Tags: debugging
 Requires at least: 3.5
 Tested up to: 3.7.1
 Stable tag: 1.2
+GitHub Plugin URI: efc/efc-debug
 
 This is a very simple plugin to facilitate the display of debugging messages. Nothing fancy here.
 
