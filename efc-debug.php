@@ -1,10 +1,11 @@
 <?php
 /*
 Plugin Name: 		Eric's Debug Menu
+Description: 		Puts a simple debug umbrella in the Admin bar of admin users.
 Plugin URI: 		https://github.com/efc/efc-debug
 GitHub Plugin URI: 	https://github.com/efc/efc-debug
-Description: 		Puts a simple debug umbrella in the Admin bar of admin users.
-Version: 			1.3.1
+GitHub Branch:		working
+Version: 			1.3.2
 Author: 			Eric Celeste
 Author URI: 		http://eric.clst.org/
 License: 			The MIT License 
@@ -42,6 +43,7 @@ THE SOFTWARE.
 	v.1.2.2:              added CHANGES.md
 	v.1.3:   140526 (efc) added jquery enqueue just in case
 	v.1.3.1: 150410 (efc) demonstrate update for Alex
+	v.1.3.2: in process
 */
  
 class EFC_Debug {
