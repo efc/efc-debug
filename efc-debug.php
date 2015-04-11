@@ -4,7 +4,7 @@ Plugin Name: 		Eric's Debug Menu
 Plugin URI: 		https://github.com/efc/efc-debug
 GitHub Plugin URI: 	https://github.com/efc/efc-debug
 Description: 		Puts a simple debug umbrella in the Admin bar of admin users.
-Version: 			1.3
+Version: 			1.3.1
 Author: 			Eric Celeste
 Author URI: 		http://eric.clst.org/
 License: 			The MIT License 
