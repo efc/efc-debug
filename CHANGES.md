@@ -1,13 +1,17 @@
+## Changelog
+
+#### 1.3
+* added jquery enqueue just in case
 
 #### 1.2
-* Include on admin pages
-* Moved to MIT Licence (1.21)
-* Added CHANGES.md (1.22)
+* include umbrella on admin pages
+* moved to MIT Licence (1.2.1)
+* added CHANGES.md (1.2.2)
 
 #### 1.1
-* Introduced the umbrella
+* introduced the umbrella
 
 #### 1.0
-* First version.
+* first version
 
 
