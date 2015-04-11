@@ -3,7 +3,7 @@
 - Contributors: efc
 - Tags: debugging
 - Requires at least: 3.5
-- Tested up to: 3.7.1
+- Tested up to: 4.1.1
 - Stable tag: master
 - License: The MIT License 
 - License URI: http://opensource.org/licenses/MIT
