@@ -2,6 +2,7 @@
 
 #### 1.3
 * added jquery enqueue just in case
+* demo update (1.3.1)
 
 #### 1.2
 * include umbrella on admin pages

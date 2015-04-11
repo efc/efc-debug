@@ -41,6 +41,7 @@ THE SOFTWARE.
 	v.1.2.1: 150410 (efc) MIT License
 	v.1.2.2:              added CHANGES.md
 	v.1.3:   140526 (efc) added jquery enqueue just in case
+	v.1.3.1: 150410 (efc) demonstrate update for Alex
 */
  
 class EFC_Debug {
